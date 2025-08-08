@@ -67,3 +67,8 @@ Issues are labeled for visibility and triage:
 ## ❤️ Thank You
 
 Your input helps shape a better Copyber. We read every issue and use this channel to steer development priorities. Let’s build something amazing together.
+
+<br />
+<p align="center">
+  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d8d485fc-ab6a-47de-a1bc-9660340cbc78" />
+</p>
